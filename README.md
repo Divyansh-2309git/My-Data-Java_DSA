@@ -5,18 +5,20 @@
 ![Code Style](https://img.shields.io/badge/Code%20Style-Clean%20Java-green?style=for-the-badge&logo=java)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
 
-Welcome to **Java Fundamentals & Data Structures Mastery** — a clean, structured, and beginner-friendly repository designed to take developers from core Java syntax to advanced Data Structures and Algorithms (DSA).
+Welcome to **Java Fundamentals & Data Structures Mastery** — a personal, structured learning repository designed to take developers from core Java syntax to Data Structures and Algorithms (DSA). The topic READMEs are the revision-first notes; the Java programs are supporting, runnable examples of the concepts they discuss.
 
 ---
 
 ## 🎯 Repository Goals & Description
 
-This repository serves as a practical, self-contained learning hub for mastering Java programming and Data Structures & Algorithms. Every program includes standardized top-level documentation headers, step-by-step logic, complexity analysis, and educational comments explaining **why** specific approaches were chosen.
+This repository serves as a personal DSA textbook: learn the mental model, trace a worked example, understand the complexity and common mistakes, then inspect the matching Java example. It is organized around concepts, data structures, algorithms, and problem-solving patterns—not around individual online-judge submissions.
+
+> The `Leetcode/` directory is preserved as existing repository material and is intentionally outside this documentation pass. Individual problem solutions belong in the separate LeetCode repository described by the repository owner.
 
 ### Who This Repository Is For
 - **Beginners**: Learning fundamental Java syntax, loops, functions, and OOP principles.
 - **Intermediate Developers**: Mastering classic data structures (Arrays, Linked Lists, Stacks, Queues, Trees, Heaps).
-- **Interview Candidates**: Solving curated LeetCode problems and revising core DSA concepts.
+- **Interview Candidates**: Revising core DSA concepts and recognizing reusable patterns.
 
 ---
 
@@ -79,7 +81,6 @@ Java-Fundamentals-DSA/
 | **Linear Data Structures** | [LinkedList/](LinkedList/), [Stacks/](Stacks/), [Queue/](Queue/) | Singly Linked Lists, Stacks, Queues, Deque, Monotonic Stacks, Interleaving |
 | **Hierarchical Data Structures**| [BinaryTree/](BinaryTree/), [BinarySearchTree/](BinarySearchTree/), [Heaps/](Heaps/) | Binary Trees, BSTs, Inorder Successor, Priority Queue, Min/Max Heaps |
 | **Hashing Data Structures** | [Hashing/](Hashing/) | HashMap, HashSet, LinkedHashMap, TreeMap, Custom HashMap Implementation, Anagrams |
-| **LeetCode Practice** | [Leetcode/](Leetcode/) | Classic LeetCode solutions across Array, Linked List, Stack, Matrix |
 
 ---
 
